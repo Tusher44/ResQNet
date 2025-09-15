@@ -27,7 +27,7 @@ It connects **volunteers, sponsors, and communities** to coordinate relief effor
 ---
 
 ## 📱 Screenshots
-![Login Screen](assets/2.png)
+![Login Screen](assets/ResQNet.jpg)
 ![Dashboard Home](assets/3.png)
 ---
 
@@ -42,5 +42,5 @@ It connects **volunteers, sponsors, and communities** to coordinate relief effor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ResQNet.git
+   [git clone https://github.com/your-username/ResQNet.git](https://github.com/Tusher44/ResQNet.git)
    cd ResQNet
