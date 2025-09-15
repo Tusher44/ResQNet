@@ -29,6 +29,11 @@ It connects **volunteers, sponsors, and communities** to coordinate relief effor
 ## 📱 Screenshots
 ![Login Screen](assets/2.jpg)
 ![Dashboard Home](assets/3.jpg)
+![My Task Tab](assets/4.jpg)
+![Distaster alerts](assets/5.jpg)
+![Blood Donation](assets/6.jpg)
+![Dashboard Notification](assets/7.jpg)
+![Dashboard Settings](assets/8.jpg)
 ---
 
 ## 🚀 Getting Started
