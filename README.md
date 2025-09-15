@@ -27,8 +27,8 @@ It connects **volunteers, sponsors, and communities** to coordinate relief effor
 ---
 
 ## 📱 Screenshots
-![Login Screen](assets/ResQNet.jpg)
-![Dashboard Home](assets/3.png)
+![Login Screen](assets/2.jpg)
+![Dashboard Home](assets/3.jpg)
 ---
 
 ## 🚀 Getting Started
