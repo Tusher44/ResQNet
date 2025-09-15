@@ -1,4 +1,4 @@
-# ResQNet 🚑
+# ResQNet 
 
 ResQNet is a Flutter-based mobile application designed to provide a **centralized volunteering and disaster management platform**.  
 It connects **volunteers, sponsors, and communities** to coordinate relief efforts efficiently in times of need.
